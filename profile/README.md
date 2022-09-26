@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Somos Os Monopolizadores de Niterói</h1>
-<h3 align="center">Projeto faz parte do trabalho em grupo da disciplina Gerência de Projetos e Manutenção de Software<br>UFF - 2022.2</h3>
+<h3 align="center">Projeto faz parte do trabalho em grupo da disciplina Gerência de Projetos e Manutenção de Software<br>UFF - 2022.2</h3><hr>
 
-:ticket: Repositório do código: [Repo. Monopoly-js](https://github.com/Monopoly-UFF/Monopoly-js)<br>
-:globe_with_meridians: Deploy Heroku CI/CD: [Monopoly-js](https://monopoly-js.herokuapp.com/)
-<br>
+### :ticket: Repositório do código: [Repo. Monopoly-js](https://github.com/Monopoly-UFF/Monopoly-js)<br>
+### :globe_with_meridians: Deploy Heroku CI/CD: [Monopoly-js](https://monopoly-js.herokuapp.com/)
+<hr>
 
 ## :busts_in_silhouette: Integrantes
 - Gustavo Santos
