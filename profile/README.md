@@ -4,7 +4,17 @@
 :ticket: Repositório do código: [Repo. Monopoly-js](https://github.com/Monopoly-UFF/Monopoly-js)<br>
 :globe_with_meridians: Deploy Heroku CI/CD: [Monopoly-js](https://monopoly-js.herokuapp.com/)
 <br>
-## Escopos:
+
+## :busts_in_silhouette: Integrantes
+- Gustavo Santos
+- Lucas David
+- Douglas caldeira 
+- Paulo Augusto de Macena Pereira
+- Danilo Siqueira 
+- Millena Santos da Costa
+
+
+## :framed_picture: Escopos:
 <details>
   <summary>Escopo do Produto</summary>
 
