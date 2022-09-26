@@ -55,6 +55,7 @@ Ao dever mais do que o valor de todos seus bens o jogador será declarado falido
 
 <details>
   <summary>Escopo do Projeto</summary>
+ EAP: https://mm.tt/map/2433610820?t=VhD6pZF6jz
 <p align="justify">
 
 </p>
